@@ -26,7 +26,6 @@ body{
 }
 
 .trail-button {
-    display: inline-block;
     background-color: #24292f;
     color: white;
     padding: 12px 24px;
@@ -71,8 +70,34 @@ body{
 }
 
 .pricing-cards-price{
+    display: grid;
     font-size: 40px;
     font-weight: 400;
+    margin-top: 40px;
+    align-items: start;
+    gap: 24px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 }
 
 .usd{
